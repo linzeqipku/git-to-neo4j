@@ -8,7 +8,7 @@ Parse .git directory, extract git entities (commits and users) and relationships
 GitCodeGraphBuilder.process(GRAPH_DIR_PATH,GIT_DIR_PATH);
 ``
 
-see [the test case](https://github.com/linzeqipku/git-to-neo4j/blob/master/src/test/java/com/github/linzeqipku/git_to_neo4j/GitCodeGraphBuilderTest.java).
+see [the test case](https://github.com/linzeqipku/git-to-neo4j/blob/master/src/test/java/com/github/linzeqipku/git_to_neo4j/GitGraphBuilderTest.java).
 
 ### Maven
 
